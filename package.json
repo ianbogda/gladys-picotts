@@ -1,0 +1,29 @@
+{
+  "name": "Gladys-picotts",
+  "version": "0.1.0",
+  "description": "Pico Text to Speech to Gladys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "text-to-speech",
+    "pico tts",
+    "module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianbogda/gladys-picotts"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "lame": "^1.2.4",
+    "wav": "^1.0.1",
+    "md5": "^2.2.1",
+    "queue": "^4.0.0",
+    "speaker": "^0.3.0"
+  },
+  "author": "Yann Bogdanovic",
+  "license": "CC-BY-NC-SA-3.0"
+}
